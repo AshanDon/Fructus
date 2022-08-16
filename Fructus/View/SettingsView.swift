@@ -80,6 +80,7 @@ struct SettingsView: View {
                         ApplicationRowView(name: "Version", content: "1.1.0")
                         ApplicationRowView(name: "GitHub", linkName: "AshanDon", destination: "github.com/AshanDon/Fructus.git")
                         ApplicationRowView(name: "Linkedin", linkName: "Ashan Anuruddika", destination: "www.linkedin.com/in/ashan-anuruddika-464a87112/")
+                        
                     }
                 } //: VSTACK
                 .navigationTitle("Settings")
